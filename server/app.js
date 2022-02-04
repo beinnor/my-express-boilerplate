@@ -1,4 +1,4 @@
-import 'dotenv/config' // see https://github.com/motdotla/dotenv#how-do-i-use-dotenv-with-import
+import 'dotenv/config'; 
 import express from 'express';
 import path from 'path';
 import cookieParser from 'cookie-parser';
